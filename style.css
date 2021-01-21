@@ -1,0 +1,33 @@
+body {
+    background-color: aquamarine;
+}
+h1 {
+    color: red;
+    text-align: center;
+    background-color: yellow;
+    font-size: 60px;
+}
+h2 {
+    color: blue;
+    font-size: 40px;
+    background-color: honeydew;
+
+}
+h3 {
+    color: green;
+    background-color: honeydew;
+    text-align: right;
+    font-size: 40px;
+}
+h4 {
+    color: orange;
+    font-size: 40px;
+    background-color: honeydew;
+    text-align: center;
+}
+p {
+    color: black;
+    background-color: honeydew;
+
+    
+}
